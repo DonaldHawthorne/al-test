@@ -1,6 +1,7 @@
 <template>
   <UApp>
     <NuxtPage />
-    <UButton color="primary">Button222</UButton>
+    <span>Big Title</span>
+    <UButton color="primary">Button</UButton>
   </UApp>
 </template>
